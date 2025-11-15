@@ -44,7 +44,7 @@ Le dépôt contient les fichiers suivants :
   ```bash
   git clone <url-du-repo>
   cd libft
-  make            # génère libftprintf.a
+  make            # génère .a
   make clean      # supprime les .o
   make fclean     # supprime les .o et la librairie
   make re         # fclean + all
